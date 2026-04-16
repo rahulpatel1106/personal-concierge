@@ -9,15 +9,15 @@ A second brain for trips, dates, and life recommendations — tuned to me, my wi
 
 ## Folder map
 
+- `context/` — personal preference files read by the remote agent (profile, wife, food, travel history, budget, him/daughter).
 - `trips/` — one folder per trip. Itinerary, bookings, picks, post-trip notes.
-- `reference/` — durable info: key dates, wishlist, recommendations log, blackout dates.
+- `reference/` — durable info: key dates, wishlist, recommendations log.
+- `briefings/` — weekly briefings committed by the remote concierge agent.
 - `README.md` — this file.
-
-All persistent personal data (preferences, wife profile, food/drink, travel history, budget style) lives in Claude's memory at `~/.claude/projects/c--Users-haven--claude/memory/`. The concierge always reads those first.
 
 ## Operating principles
 
-1. Never recommend generic AI slop. Pull from memory first, the web second, then synthesize.
+1. Never recommend generic AI slop. Pull from context first, the web second, then synthesize.
 2. Default planning unit = couple. Always confirm if daughter is joining.
 3. Smart-luxury: splurge on the flight + the experience, save on the bed.
 4. One anchor nice meal per trip + lots of street food / local hotspots.
