@@ -70,6 +70,7 @@ Portland is not a luxury shopping city. Wife will find independent boutiques and
 
 - [ ] **Ava Gene's dinner** — Saturday night. Book now, books out. ← priority
 - [ ] ~~Hotel~~ — **Hyatt Regency Portland. Booked.**
+- [ ] **BabyQuip car seat** — deliver to Hyatt Regency. Book for trip dates. Also book a rental car for Sunday (Multnomah Falls day).
 - [ ] Japanese Garden timed entry (they have them — book a few days out)
 - [ ] Nothing else requires advance booking
 
