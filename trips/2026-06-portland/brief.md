@@ -69,11 +69,11 @@ Portland is not a luxury shopping city. Wife will find independent boutiques and
 ## What to pre-book
 
 - [ ] **Ava Gene's dinner** — Saturday night. Book now, books out. ← priority
-- [ ] Hotel (confirm it's Marriott Explore rate if available in Portland — AC Hotel Portland Downtown is the best Marriott option there)
+- [ ] ~~Hotel~~ — **Hyatt Regency Portland. Booked.**
 - [ ] Japanese Garden timed entry (they have them — book a few days out)
 - [ ] Nothing else requires advance booking
 
 ---
 
 ## Status
-- 2026-04-16: Brief drafted. Flights booked. Family event schedule confirmed (Thu eve, Fri eve, Sat AM).
+- 2026-04-16: Brief drafted. Flights booked. Hotel booked (Hyatt Regency Portland). Family event schedule confirmed (Thu eve, Fri eve, Sat AM).
