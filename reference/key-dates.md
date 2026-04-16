@@ -8,7 +8,7 @@
 
 ## 2026 Status
 - **Anniversary (June 7, 2026):** SKIPPED — other commitments
-- **Portland, OR (June 17–21, 2026):** Cousin's engagement — **BOOKED**. Family obligation trip. Destination confirmed. (Who's attending: confirm if wife is coming too.)
+- **Portland, OR (June 17–21, 2026):** Cousin's engagement — **BOOKED**. Family trip (wife + daughter, ~2.5yrs). RDU → PHL → PDX outbound. Return: Sunday June 21 red-eye, landing Monday June 22 AM. Engagement is the anchor — free time for food/exploration around it.
 - **Guys trip (July 9–12, 2026):** Thu–Sun, destination TBD. Friends trip, solo mode for Rahul.
 - **Wife's birthday (Aug 15, 2026):** Main Europe trip → **Budapest + Vienna, Aug 12–18**, couple-only (grandparent drop-off). 2 new countries. See [trips/2026-08-budapest-vienna/brief.md](../trips/2026-08-budapest-vienna/brief.md)
 - **ADE 2026:** October 21–25 (verify) — open question whether to do it this year
