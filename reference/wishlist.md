@@ -9,7 +9,7 @@
 - **Amsterdam Dance Event** (Oct, Amsterdam)
 
 ## Couple / family
-- (add as discovered)
+- **Mackinac Island** — family trip idea for **2027**
 
 ## Active shortlist — Wife's birthday 2026
 - Budapest (Hungary) 🆕
