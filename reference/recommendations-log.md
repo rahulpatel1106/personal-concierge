@@ -14,6 +14,8 @@ A running record of what I suggested, what we did, and what we loved/hated. This
 | 2026-05-06 | Mother's Day plan: Umstead Spa solo morning for wife (Rahul takes daughter), Coquette Brasserie for family brunch | **Accepted in principle** | Umstead Spa appointment not yet booked — call 919-447-4041 |
 | 2026-05-06 | India November trip logged: ~3 weeks, wedding in Mumbai + Ahmedabad. Routing: RDU→EWR→BOM (United Polaris 787-9) + domestic BOM→AMD. Rajasthan extension floated (Udaipur/Jaipur) | **Pending details** | Who's traveling + leisure time TBD. Award space check flagged for July. |
 
+| 2026-05-15 | DC Anniversary: hotel switch AC Hotel → Westin DC Downtown (Chinatown). Maydan flex strategy: book Thu June 5 + Fri June 6 when those Resy windows open this week, still gun for Sat June 7 on Sun May 17 10am drop. | **ACCEPTED** | Westin booked, Maydan Thu + Fri locked. Sat Resy still pending. Cocktail bar (Columbia Room) still to slot. |
+
 ## Past wins (pre-system, for pattern recognition)
 - **Le Conteur, Brussels (2025)** — trendy Mediterranean. Called out as best meal of trip. Pattern: trendy Med in a European capital = winner.
 - **Polaris upgrade to/from Belgium (2025)** — splurge that mattered.
