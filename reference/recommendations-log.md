@@ -20,3 +20,7 @@ A running record of what I suggested, what we did, and what we loved/hated. This
 - **Le Conteur, Brussels (2025)** — trendy Mediterranean. Called out as best meal of trip. Pattern: trendy Med in a European capital = winner.
 - **Polaris upgrade to/from Belgium (2025)** — splurge that mattered.
 - **Atlantis Bahamas, 3 nights (2025)** — daughter's birthday trip. Family resort splurge worked.
+| 2026-05-22 | Chicago flights booked: United RDU→ORD Thu 12:29pm arrival, Sun 2pm return | **Logged** | Chosen Few Picnic (July 11, Jackson Park) identified as trip anchor — house music, 36th year. Smart Bar for Fri night. |
+| 2026-05-22 | Portland car rental: National Emerald Club (Rahul's preferred), pick up at PDX, add car seat at counter | **ACCEPTED** | BabyQuip no longer needed. National Emerald is default for all future rentals. |
+| 2026-05-22 | DC update: Maydan Thu June 5 + Fri June 6 both confirmed. Anchor night = whichever night childcare lands. Sat becomes casual wander night. Columbia Room still to book. | **Logged** | Childcare is the unlock for which Maydan night to keep. |
+| 2026-05-22 | August shortlist changed: Budapest off table. Now Milan, Dublin, Copenhagen/Sweden. Recommendation: Copenhagen + Malmö (2 new countries — Denmark + Sweden). Dublin weakest (poor shopping/fashion). Milan strong if luxury labels are priority but no new country credit. | **Pending decision** | Wife wants to look cute and feel good — Copenhagen and Milan both serve this. Dublin doesn't. |
