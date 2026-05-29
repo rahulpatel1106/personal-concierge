@@ -12,6 +12,7 @@
 - **Mackinac Island** — family trip idea for **2027**
 
 ## Active shortlist — Wife's birthday 2026
-- Budapest (Hungary) 🆕
-- Dubrovnik (Croatia) 🆕
-- Dublin (Ireland) 🆕
+*(Updated May 22, 2026 — Budapest and Dubrovnik removed)*
+- **Copenhagen + Malmö** (Denmark + Sweden) 🆕🆕 ← recommended
+- Milan + Lake Como (Italy — not a new country)
+- Dublin (Ireland) 🆕 ← weakest option
