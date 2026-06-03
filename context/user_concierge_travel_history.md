@@ -14,10 +14,12 @@ originSessionId: 99e8ed39-ede0-4ca9-a83b-0410bcca0d02
 - Rome (Italy)
 - Oslo (Norway)
 - Brussels (Belgium) — most recent (2025)
+- Athens + Santorini (Greece) — August 2022
 
 # Countries NOT Yet Visited (High-Value for "3 New Countries" Goal)
-Notable gaps among popular Euro destinations: France*, Germany, Austria, Czech Republic, Hungary, Greece, Croatia, Ireland, Denmark, Sweden, Iceland, Poland.
+Notable gaps among popular Euro destinations: France*, Germany, Austria, Czech Republic, Hungary, Croatia, Ireland, Denmark, Sweden, Iceland, Poland, Montenegro, Slovenia.
 *Paris is on wife's "want to return" list — verify if they've been before or if she's never been.
+Note: Greece visited (Athens + Santorini, Aug 2022) — remove from suggestions.
 
 # Travel Personality
 - **City people first**, beach is fine but secondary
