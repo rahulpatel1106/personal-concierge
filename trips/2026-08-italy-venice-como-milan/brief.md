@@ -12,11 +12,11 @@
 - [x] **Aug 18:** Milan (MXP/LIN) → RDU.
 
 ## Lodging plan (book now — August is peak, Italy fills)
-| Leg | Nights | Dates |
-|-----|--------|-------|
-| **Venice** | 2 | Aug 11, 12 |
-| **Lake Como** | 2 | Aug 13, 14 |
-| **Milan** | 3 | Aug 15, 16, 17 |
+| Leg | Nights | Dates | Hotel |
+|-----|--------|-------|-------|
+| **Venice** | 2 | Aug 11, 12 | ⬜ needs booking |
+| **Lake Como** | 2 | Aug 13, 14 | ⬜ needs booking |
+| **Milan** | 3 | Aug 15, 16, 17 | ✅ **Excelsior Hotel Gallia** (Marriott Luxury Collection, by Milano Centrale) — BOOKED |
 
 **Birthday (Aug 15)** = Como → Milan transfer day. Lazy lakeside morning, train to Milan, **birthday dinner in Milan**.
 
@@ -62,3 +62,18 @@ Arrive AM Aug 11, tired from overnight. Easy first day.
 ## Status
 - 2026-04-13 to 05-22: Shortlist churned (Budapest/Vienna → Copenhagen vs Milan vs Dublin).
 - 2026-06-10: **DECIDED & BOOKED — Italy: Venice (2) → Como (2) → Milan (3), Aug 10–18.** Flights booked RDU→VCE Aug 10, MXP→RDU Aug 18. Couple-only. Trades new-country credit for max photogenic + shopping + Italian food. Hotels + birthday dinner now the open items.
+
+---
+
+## Hotel shortlists (updated 2026-06-10)
+**Milan: ✅ Excelsior Hotel Gallia booked** (5-star, sets the upscale tone for the trip).
+
+### Venice (Aug 11–13) — pick lands toward design/photogenic
+- **Il Palazzo Experimental (Dorsoduro)** ← top pick. Design-forward, private canal-side garden, excellent cocktail bar (gin program — her). Trendy, very photogenic, matches the Gallia energy.
+- **Aqua Palace / EGO' Boutique (San Marco)** — classic-luxury, steps from Rialto + Grand Canal views. Most central.
+- **Ai Mori d'Oriente (Cannaregio)** — quieter canal-view boutique, better value, local feel.
+
+### Lake Como (Aug 13–15) — birthday eve, lean romantic + photogenic
+- **Grand Hotel Villa Serbelloni (Bellagio)** — the full splurge: iconic, Michelin restaurant, frescoed grandeur. The "make-the-birthday" option.
+- **Hotel Florence (Bellagio)** ← smart-luxury pick. 27 rooms, balcony lake views, boutique feel, central Bellagio.
+- **Hotel Du Lac (Varenna)** — calmer, family-run since '59, lakeside terrace. Best if she wants quiet-photogenic over Bellagio buzz.
