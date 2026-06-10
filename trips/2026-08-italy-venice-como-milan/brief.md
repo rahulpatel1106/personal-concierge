@@ -77,3 +77,15 @@ Arrive AM Aug 11, tired from overnight. Easy first day.
 - **Grand Hotel Villa Serbelloni (Bellagio)** — the full splurge: iconic, Michelin restaurant, frescoed grandeur. The "make-the-birthday" option.
 - **Hotel Florence (Bellagio)** ← smart-luxury pick. 27 rooms, balcony lake views, boutique feel, central Bellagio.
 - **Hotel Du Lac (Varenna)** — calmer, family-run since '59, lakeside terrace. Best if she wants quiet-photogenic over Bellagio buzz.
+
+### Live rate check (2026-06-10, peak-August estimates)
+**Venice**
+- Il Palazzo Experimental: peak-August ~€400–500/night (entry rooms from ~€418 noted). **⏰ Amex Hotel Collection: 25% off select rooms if booked by June 30, 2026 for travel by Aug 31 — fits these dates. Worth booking via Amex Travel if he holds the card.**
+- San Marco classics (Aqua Palace / EGO') and Cannaregio (Ai Mori) generally ~€250–400/night in August.
+
+**Lake Como**
+- Grand Hotel Villa Serbelloni (Bellagio): ~$900–1,485/night — full splurge.
+- Hotel Florence (Bellagio): ~$250–350/night — smart-luxury sweet spot.
+- Hotel Du Lac (Varenna): ~$200–300/night — calm/value.
+
+**Read:** With Milan already a 5-star (Gallia), a balanced play is Il Palazzo Experimental (Venice) + Hotel Florence (Como), saving the one big splurge for either Serbelloni or the Milan birthday dinner. Two-night August lake weekends sell out — book Como first.
