@@ -36,3 +36,17 @@ With two Maydan nights already booked, Saturday becomes the casual exploration n
 - 2026-05-06: DC confirmed. AC Hotel booked originally. Rania removed (one nice dinner per trip rule). Maydan is the anchor.
 - 2026-05-15: Hotel switched → Westin DC Downtown (Chinatown). Maydan flex strategy: Thu + Fri both booked.
 - 2026-05-22: Confirmed both Maydan nights booked (Thu June 5 + Fri June 6). Anchor night depends on childcare confirmation. Saturday becomes the casual wander night. Columbia Room still needs booking.
+
+---
+
+## TRIP COMPLETED — Recap (June 5–8, 2026)
+**Verdict: success.** Went family, not couple-only — **Kali came and did great at Maydan.** Key learning: she handles nice/communal restaurants well, so future trips don't have to be couple-only to get a good anchor dinner.
+
+**Where they actually went:**
+- **Maydan** — anchor, with Kali. Held up as a kid-friendly-enough celebratory dinner.
+- **Zaytinya** (José Andrés Greek/Med mezze) — second nice dinner. Trendy Mediterranean = the proven pattern (cf. Le Conteur). Win.
+- **Chai Pani** — casual Indian street food lunch.
+- **Matchbox** — casual lunch (pizza).
+- **National Zoo** — family daytime, worked with a toddler.
+
+**Notes for next time:** Two nice dinners this trip (Maydan + Zaytinya) — the one-nice-dinner rule flexes for anniversaries. Columbia Room appears to have been skipped. Zaytinya confirms trendy-Med-in-a-capital is a reliable call.

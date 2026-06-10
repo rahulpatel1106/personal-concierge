@@ -15,8 +15,10 @@ originSessionId: 99e8ed39-ede0-4ca9-a83b-0410bcca0d02
 - **Amsterdam Dance Event (ADE)** — held every October in Amsterdam, ~5 days of house/techno. Could be solo, with friends, or paired with a wife-friendly Amsterdam return.
 
 # Daughter
-- **Born December 2023** (currently ~2yrs 4mo as of April 2026)
-- Joins on some trips, not all
+- **Name: Kali**
+- **Born December 2023** (~2.5 yrs as of mid-2026)
+- Joins on some trips, not all — but travels well
+- **Dines well at nice restaurants** — handled Maydan (communal fire-cooked Middle Eastern) on the DC trip with no issue. Don't assume couple-only is required for a good dinner; she can come to the anchor meal.
 
 # Childcare Backup (for couple-only trips)
 - **Wife's parents in NJ** — flying out of EWR is an option (drop daughter, fly from there)
