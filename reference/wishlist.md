@@ -11,8 +11,8 @@
 ## Couple / family
 - **Mackinac Island** — family trip idea for **2027**
 
-## Active shortlist — Wife's birthday 2026
-*(Updated May 22, 2026 — Budapest and Dubrovnik removed)*
-- **Copenhagen + Malmö** (Denmark + Sweden) 🆕🆕 ← recommended
-- Milan + Lake Como (Italy — not a new country)
-- Dublin (Ireland) 🆕 ← weakest option
+## Wife's birthday 2026 — DECIDED & BOOKED
+*(Decided June 10, 2026)*
+- **Italy: Venice (2n) → Lake Como (2n) → Milan (3n), Aug 10–18** ✅ flights booked
+- Trades new-country credit for max photogenic + luxury shopping (Milan Quadrilatero) + Italian food
+- Copenhagen/Malmö and Dublin dropped from shortlist
