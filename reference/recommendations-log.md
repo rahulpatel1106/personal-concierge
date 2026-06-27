@@ -28,3 +28,8 @@ A running record of what I suggested, what we did, and what we loved/hated. This
 | 2026-06-10 | DC Anniversary trip recap (June 5–8) | **COMPLETED** | Brought Kali (daughter) along — was planned couple-only, became family. She did great at Maydan (kid handles communal fire-cooked dining well — repeat-worthy). Did: National Zoo, Chai Pani (lunch), Matchbox (lunch), Zaytinya (dinner), Maydan (with Kali). Note: 2 nice dinners (Maydan + Zaytinya) — one-nice-dinner rule relaxed for anniversary. Columbia Room: not mentioned, likely skipped. |
 
 | 2026-06-10 | August birthday trip DECIDED — Italy: Venice→Como→Milan, Aug 10–18 (couple-only). Flights booked RDU→VCE Aug 10, MXP→RDU Aug 18. 2 nights Venice / 2 Como / 3 Milan. | **BOOKED (flights)** | Departs from the 2-new-countries plan (all Italy, 0 new) — chosen for photogenic + luxury shopping (Milan Quadrilatero) + Italian food. Copenhagen/Malmö dropped. Open: hotels (all 3 legs, peak August), Venice→Milan Frecciarossa, Aug 15 Milan birthday dinner. |
+
+| 2026-06-27 | Lake Como hotel: Hotel Belvedere Bellagio chosen (dropped Hotel Florence, Villa Serbelloni). 9.6 rating, lake views, spa. | **DECIDED** | Smart choice — strong reviews, right price point for 2-night stay. |
+| 2026-06-27 | Venice hotel: Il Palazzo Experimental dropped (over $400 Aug). New shortlist — Hotel Canal Grande (GC, 20 rooms, private dock, #16/377 Venice) and San Cassiano Ca'Favretto (GC across from Ca' d'Oro). Both genuinely on the Grand Canal. | **Pending** | Book whichever hits under $400 with water-facing room for Aug 11–13. |
+| 2026-06-27 | ADE 2026 (Oct 21–25) — skipping this year. | **PASSED** | No action. |
+| 2026-06-27 | Asheville long weekend — declined. | **PASSED** | No action. |

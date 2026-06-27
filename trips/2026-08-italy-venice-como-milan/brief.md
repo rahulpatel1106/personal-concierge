@@ -89,3 +89,29 @@ Arrive AM Aug 11, tired from overnight. Easy first day.
 - Hotel Du Lac (Varenna): ~$200–300/night — calm/value.
 
 **Read:** With Milan already a 5-star (Gallia), a balanced play is Il Palazzo Experimental (Venice) + Hotel Florence (Como), saving the one big splurge for either Serbelloni or the Milan birthday dinner. Two-night August lake weekends sell out — book Como first.
+
+---
+
+## Update (2026-06-27)
+
+### Lake Como — ✅ DECIDED: Hotel Belvedere Bellagio
+**Hotel Belvedere, Bellagio** — booked (or in progress). 9.6 rating, lake views, spa (complimentary steam/sauna/salt room), excellent breakfast. Solid smart-luxury call. Birthday eve (Aug 14) lakeside dinner in Bellagio still to book.
+
+### Venice — still open (Grand Canal, under $400/night required)
+Il Palazzo Experimental dropped (over $400 in August). Two strong candidates on the actual Grand Canal:
+
+- **Hotel Canal Grande (Santa Croce)** — 20-room boutique palazzo directly on the Grand Canal, private dock, ranked #16 of 377 Venice hotels, 9.4 couples score. Rooms from ~€207 off-peak; August will be higher but likely in range. Check hotelcanalgrande.it directly.
+- **San Cassiano – Residenza d'Epoca Ca' Favretto (Cannaregio)** — 35-room 14th-century residence overlooking Grand Canal directly across from Ca' d'Oro. Venetian style, terrace with Grand Canal views, buffet breakfast. Typically mid-range for the location.
+
+Both are genuinely on the Grand Canal. Verify August 11–13 rates and book whichever lands under $400 with a water-facing room.
+
+### Lodging table (updated)
+| Leg | Hotel | Status |
+|-----|-------|--------|
+| Venice (Aug 11–12) | Hotel Canal Grande or San Cassiano | ⬜ book now |
+| Lake Como (Aug 13–14) | **Hotel Belvedere, Bellagio** | ✅ decided |
+| Milan (Aug 15–17) | Excelsior Hotel Gallia | ✅ booked |
+
+### Other decisions logged (2026-06-27)
+- **ADE 2026:** Skipping this year.
+- **Asheville weekend:** Not happening.
