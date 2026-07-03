@@ -13,7 +13,7 @@
 - **Portland, OR (June 17–22, 2026):** Cousin's engagement — **BOOKED**. Family trip (wife + daughter). Hyatt Regency Portland booked. Flights booked. Car: **National Emerald Club, pick up at PDX, add car seat at counter**. Open: Ava Gene's dinner (Sat June 20).
 - **Guys trip (July 9–12, 2026):** Chicago. The Wade (Autograph Collection) booked. **Flights booked: United RDU→ORD arriving Thu 12:29pm, return Sun 2pm.** Anchor: **Chosen Few Picnic, Sat July 11 at Jackson Park** — buy tickets. Smart Bar for Fri night.
 - **Wife's birthday (Aug 15, 2026):** Main Europe trip → **ITALY, Aug 10–18, couple-only. BOOKED (flights).** RDU→Venice Aug 10, Milan→RDU Aug 18. Route: Venice (2n) → Lake Como (2n) → Milan (3n). Birthday Aug 15 = Como→Milan transfer + Milan birthday dinner. Open: hotels (all 3 legs — peak August), Venice→Milan Frecciarossa, Aug 15 Milan dinner.
-- **India (November 2026):** ~3 weeks, wedding trip, Mumbai + Ahmedabad. Full family TBD. Routing: RDU→EWR→BOM (Polaris) + domestic BOM→AMD. Award space check flagged for July.
+- **India (November 2026):** Wife only, flights booked (July 2026). No further action needed.
 - **ADE 2026:** October 21–25 (verify) — open question whether to do it this year
 - **Mackinac Island:** Deferred to **2027** as a family trip.
 

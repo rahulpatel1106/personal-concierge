@@ -33,3 +33,5 @@ A running record of what I suggested, what we did, and what we loved/hated. This
 | 2026-06-27 | Venice hotel: Il Palazzo Experimental dropped (over $400 Aug). New shortlist — Hotel Canal Grande (GC, 20 rooms, private dock, #16/377 Venice) and San Cassiano Ca'Favretto (GC across from Ca' d'Oro). Both genuinely on the Grand Canal. | **Pending** | Book whichever hits under $400 with water-facing room for Aug 11–13. |
 | 2026-06-27 | ADE 2026 (Oct 21–25) — skipping this year. | **PASSED** | No action. |
 | 2026-06-27 | Asheville long weekend — declined. | **PASSED** | No action. |
+| 2026-07-03 | India November trip — wife only, flights already booked. | **CLOSED** | Rahul not going. Removed from active planning. |
+| 2026-07-03 | Chicago guys trip: Avec River North (Thu) + Bavette's (Sat) booked. Friday kept open — possible World Cup USA quarterfinal watch. | **Logged** | Chosen Few + Smart Bar still on table for Sat/Fri. |
