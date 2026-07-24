@@ -50,7 +50,9 @@ Arrive AM Aug 11, tired from overnight. Easy first day.
 ---
 
 ## What to pre-book (priority order)
-- [ ] **Hotels — all three legs.** August in Italy is peak; Como especially fills. ← do first
+- [x] **Venice hotel** — H10 Palazzo Venezia, Aug 11–13. ✅
+- [x] **Lake Como hotel** — Hotel Belvedere, Bellagio, Aug 13–14. ✅
+- [x] **Milan hotel** — Excelsior Hotel Gallia, Aug 15–17. ✅
 - [ ] **Frecciarossa: Venice → Milan (Aug 13).** Book early for fare.
 - [ ] **Milan birthday dinner (Aug 15).** ~45–60 days out → by early July.
 - [ ] Venice nice dinner (~30 days out).
@@ -108,9 +110,16 @@ Both are genuinely on the Grand Canal. Verify August 11–13 rates and book whic
 ### Lodging table (updated)
 | Leg | Hotel | Status |
 |-----|-------|--------|
-| Venice (Aug 11–12) | Hotel Canal Grande or San Cassiano | ⬜ book now |
+| Venice (Aug 11–12) | **H10 Palazzo Venezia** | ✅ booked |
 | Lake Como (Aug 13–14) | **Hotel Belvedere, Bellagio** | ✅ decided |
 | Milan (Aug 15–17) | Excelsior Hotel Gallia | ✅ booked |
+
+### Update (2026-07-24)
+- **Venice hotel ✅ BOOKED:** H10 Palazzo Venezia, Aug 11–13.
+- **Milan birthday dinner — shortlist (⚠️ Aug 15 = Ferragosto, confirm each is open before booking):**
+  1. **Terrazza Gallia** (rooftop of the Gallia, Michelin) — book via hotel concierge. Almost certainly open. Start here.
+  2. **Berton** (Michelin, Porta Nuova, strong cocktail program) — email/call to confirm Ferragosto hours.
+  3. **Contraste** (creative tasting-menu, Porta Romana, photogenic) — confirm open Aug 15.
 
 ### Other decisions logged (2026-06-27)
 - **ADE 2026:** Skipping this year.

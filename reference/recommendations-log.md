@@ -35,3 +35,5 @@ A running record of what I suggested, what we did, and what we loved/hated. This
 | 2026-06-27 | Asheville long weekend — declined. | **PASSED** | No action. |
 | 2026-07-03 | India November trip — wife only, flights already booked. | **CLOSED** | Rahul not going. Removed from active planning. |
 | 2026-07-03 | Chicago guys trip: Avec River North (Thu) + Bavette's (Sat) booked. Friday kept open — possible World Cup USA quarterfinal watch. | **Logged** | Chosen Few + Smart Bar still on table for Sat/Fri. |
+| 2026-07-24 | Venice hotel: H10 Palazzo Venezia booked, Aug 11–13. | **BOOKED ✅** | All three Italy hotels now confirmed. |
+| 2026-07-24 | Milan birthday dinner shortlist: Terrazza Gallia (rooftop of the Gallia, Michelin — book via concierge), Berton (Michelin, Porta Nuova), Contraste (creative tasting, Porta Romana). ⚠️ Aug 15 = Ferragosto — confirm open before booking. | **Pending** | Terrazza Gallia is the easiest ask and most likely to be open. |
