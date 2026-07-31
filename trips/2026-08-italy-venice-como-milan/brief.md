@@ -54,7 +54,7 @@ Arrive AM Aug 11, tired from overnight. Easy first day.
 - [x] **Lake Como hotel** — Hotel Belvedere, Bellagio, Aug 13–14. ✅
 - [x] **Milan hotel** — Excelsior Hotel Gallia, Aug 15–17. ✅
 - [ ] **Frecciarossa: Venice → Milan (Aug 13).** Book early for fare.
-- [ ] **Milan birthday dinner (Aug 15).** ~45–60 days out → by early July.
+- [x] **Milan birthday dinner (Aug 15).** ✅ **Gloria Osteria, 8:30pm.**
 - [ ] Venice nice dinner (~30 days out).
 - [ ] Lake Como ferry passes (buy on arrival, no advance needed).
 - [ ] Optional: Last Supper / Villa del Balbianello timed entries if wanted.
@@ -124,3 +124,17 @@ Both are genuinely on the Grand Canal. Verify August 11–13 rates and book whic
 ### Other decisions logged (2026-06-27)
 - **ADE 2026:** Skipping this year.
 - **Asheville weekend:** Not happening.
+
+---
+
+## Update (2026-07-31)
+
+### Milan — activities booked
+- **Aug 15 🎂 Birthday:** ✅ Last Supper guided tour 4:15pm (1hr, cancellable — only option available for the dates) + Gloria Osteria dinner 8:30pm
+- **Aug 16:** ✅ Juliet House, 11:30am + Wine tour, 2:00–6:30pm
+- **Aug 17:** ✅ Duomo fast-track entry, 11:00am
+
+### Remaining open items
+- [ ] **Frecciarossa: Venice → Milan (Aug 13)** — still not logged as booked. Book at trenitalia.com.
+- [ ] **Venice dinner** — 10 days out, book now.
+- [ ] **Como birthday-eve dinner (Aug 14)** — lakeside dinner in Bellagio.

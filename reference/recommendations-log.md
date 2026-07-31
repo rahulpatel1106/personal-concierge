@@ -37,3 +37,7 @@ A running record of what I suggested, what we did, and what we loved/hated. This
 | 2026-07-03 | Chicago guys trip: Avec River North (Thu) + Bavette's (Sat) booked. Friday kept open — possible World Cup USA quarterfinal watch. | **Logged** | Chosen Few + Smart Bar still on table for Sat/Fri. |
 | 2026-07-24 | Venice hotel: H10 Palazzo Venezia booked, Aug 11–13. | **BOOKED ✅** | All three Italy hotels now confirmed. |
 | 2026-07-24 | Milan birthday dinner shortlist: Terrazza Gallia (rooftop of the Gallia, Michelin — book via concierge), Berton (Michelin, Porta Nuova), Contraste (creative tasting, Porta Romana). ⚠️ Aug 15 = Ferragosto — confirm open before booking. | **Pending** | Terrazza Gallia is the easiest ask and most likely to be open. |
+| 2026-07-31 | Milan Aug 15: Last Supper guided tour 4:15pm (1hr, cancellable). Only availability found for the dates. | **BOOKED ✅** | Birthday afternoon anchor locked. |
+| 2026-07-31 | Milan Aug 15 birthday dinner: Gloria Osteria, 8:30pm. | **BOOKED ✅** | Ferragosto solved. |
+| 2026-07-31 | Milan Aug 16: Juliet House 11:30am + wine tour 2–6:30pm. | **BOOKED ✅** | Full day locked. |
+| 2026-07-31 | Milan Aug 17: Duomo fast-track entry, 11am. | **BOOKED ✅** | Good — Duomo without the queue is the right call. |
