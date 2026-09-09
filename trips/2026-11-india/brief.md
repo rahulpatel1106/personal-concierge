@@ -34,3 +34,12 @@ Two separate stays, one room, 3 adults (wife + her parents):
 - 2026-05-06: Trip logged. Routing identified.
 - 2026-07-03: Flights booked. Wife only — Rahul not going.
 - 2026-09-09: Lodging need identified — wife + her parents, 3 adults, two segments (Nov 16–26, Nov 29–TBD) near Thaltej/Gota/Shilaj/SG Highway/SP Ring Road. Hotel shortlist researched. Awaiting segment-2 end date from Rahul before finalizing.
+
+## Update (2026-09-09) — Renaissance Ahmedabad Hotel (Rahul's pick)
+User proposed: Renaissance Ahmedabad Hotel, Behind Ganesh Meridian Complex, Sola Road, Sarkhej Gandhinagar Highway, Ahmedabad 380060. +91 79-40005000.
+- **Location fit:** ~1.4 km from Sola Bhagwat/SG Highway, ~2.1 km from Thaltej, ~3 km from Gota. Solidly in the requested area.
+- **Brand fit:** Marriott (Renaissance) — matches domestic Marriott preference.
+- **Live rate checked (marriott.com, Nov 16–26, 1 room, 3 adults, taxes/fees included):**
+  - Superior Guest Room (1 King or 2 Twin): **₹17,766/night avg, ₹177,660 total for 10 nights** (≈ $1,870 total / ≈$187 per night at ~₹95/USD)
+  - Executive lounge access room: ₹14,331/night avg before tax shown on listing (~₹16,000+/night with tax likely) — pricier tier
+- **Status:** Strong candidate, front-runner given location + brand fit. Segment 2 (Nov 29–TBD) rate not yet checked — needs end date first.
