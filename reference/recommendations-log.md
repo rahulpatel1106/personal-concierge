@@ -41,3 +41,4 @@ A running record of what I suggested, what we did, and what we loved/hated. This
 | 2026-07-31 | Milan Aug 15 birthday dinner: Gloria Osteria, 8:30pm. | **BOOKED ✅** | Ferragosto solved. |
 | 2026-07-31 | Milan Aug 16: Juliet House 11:30am + wine tour 2–6:30pm. | **BOOKED ✅** | Full day locked. |
 | 2026-07-31 | Milan Aug 17: Duomo fast-track entry, 11am. | **BOOKED ✅** | Good — Duomo without the queue is the right call. |
+| 2026-09-09 | Ahmedabad lodging for wife + her parents (3 adults), Nov 16–26 and Nov 29–TBD, near Thaltej/Gota/Shilaj/SG Highway/SP Ring Road. Shortlist: Courtyard by Marriott Sindhu Bhavan Rd, DoubleTree by Hilton SG Highway, Ginger SG Road (budget/extended-stay). | **Pending** | Need segment-2 end date from Rahul before booking. Rahul to book directly. |
