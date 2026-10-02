@@ -8,7 +8,7 @@
 
 ## Open items (book now — 4 weeks out)
 - [ ] **Wife + Kali flights** — Use **Southwest $500 Chase credit** for RDU→DEN. Kali is ~2yr 10mo = needs her own seat (past the under-2 lap-child threshold). $500 likely covers both roundtrips; book at southwest.com with the Chase credit.
-- [ ] **Hotel** — **Sheraton Denver Downtown** (conference hotel, Marriott Bonvoy). Book via marriott.com with Explore credentials. Use Chase Shop $250 via Chase Travel to offset if available.
+- [x] **Hotel** — Sheraton Denver Downtown. ✅ Already paid for (conference).
 - [ ] **Anchor dinner** — Tavernetta (Italian, Union Station). Make reservation now.
 - [ ] **Death & Co Denver** — no reservations, walk-in only. Just go.
 - [ ] Confirm: are wife + Kali flying with Rahul, or separate?
@@ -24,8 +24,6 @@ Why this is the right call with family tagging along:
 - Kali can nap without anyone commuting anywhere
 - Wife has a full hotel base (likely pool, room service) — no car needed
 - Large convention hotel = stroller-friendly, no fussiness
-
-**Book at marriott.com using Explore credentials.** Consider offsetting with Chase Shop $250 via Chase Travel portal if the rate shows there.
 
 Cherry Creek shopping (~15 min Uber) is still easy for wife's daytime agenda.
 

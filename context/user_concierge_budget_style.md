@@ -30,7 +30,7 @@ originSessionId: 99e8ed39-ede0-4ca9-a83b-0410bcca0d02
 
 # Active Credits (expire end of 2026)
 - **Southwest $500 (Chase):** Use for domestic flights before Dec 31, 2026. Best target: wife + Kali RDU→DEN for Denver trip (Oct 31–Nov 5). Southwest flies RDU–DEN direct or 1-stop; wife + Kali = 2 seats. Kali is ~2yr 10mo in November — past the under-2 lap-child threshold, needs own seat.
-- **Chase Shop $250:** Use before Dec 31, 2026. Can apply to Chase Travel portal (hotels, flights) or eligible merchants. Best target: Quebec City hotel or Denver hotel.
+- **Chase Shop $250:** Use before Dec 31, 2026. Denver hotel is already paid for (conference). Best target: Quebec City hotel (Château Frontenac or Auberge Saint-Antoine) via Chase Travel portal, or other eligible merchants.
 
 # Reference Points (last year's trips)
 - **Belgium** — couple trip, business class out, mid-range hotels
