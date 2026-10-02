@@ -8,24 +8,26 @@
 
 ## Open items (book now — 4 weeks out)
 - [ ] **Wife + Kali flights** — Use **Southwest $500 Chase credit** for RDU→DEN. Kali is ~2yr 10mo = needs her own seat (past the under-2 lap-child threshold). $500 likely covers both roundtrips; book at southwest.com with the Chase credit.
-- [ ] **Hotel** — Marriott/Bonvoy Explore rate. See options below. Book this week. Consider using **Chase Shop $250** via Chase Travel portal to offset.
+- [ ] **Hotel** — **Sheraton Denver Downtown** (conference hotel, Marriott Bonvoy). Book via marriott.com with Explore credentials. Use Chase Shop $250 via Chase Travel to offset if available.
 - [ ] **Anchor dinner** — Tavernetta (Italian, Union Station). Make reservation now.
 - [ ] **Death & Co Denver** — no reservations, walk-in only. Just go.
 - [ ] Confirm: are wife + Kali flying with Rahul, or separate?
 
 ---
 
-## Hotel
+## Hotel — **Sheraton Denver Downtown** ✅ DECIDED
 
-**Priority: Marriott Explore rate, walkable to Union Station / LoDo**
+Conference is at the Sheraton Denver Downtown → **stay in the conference hotel.** Sheraton is Marriott Bonvoy — Explore rate should apply.
 
-| Option | Area | Notes |
-|--------|------|-------|
-| **Marriott Denver City Center** | 16th Street Mall | Central, family-friendly, Explore rate expected |
-| **Renaissance Denver Downtown** | Downtown / Arapahoe | Newer, design-forward, Autograph energy |
-| **JW Marriott Denver Cherry Creek** | Cherry Creek | Slightly out of downtown but Cherry Creek shopping is right there — good if wife wants that base. ~15 min to Union Station. |
+Why this is the right call with family tagging along:
+- Rahul steps out of sessions and is back in the room in 2 minutes
+- Kali can nap without anyone commuting anywhere
+- Wife has a full hotel base (likely pool, room service) — no car needed
+- Large convention hotel = stroller-friendly, no fussiness
 
-Cherry Creek base = better for wife's shopping days. Downtown = easier for conference logistics. **Rahul's call based on where the conference venue is.**
+**Book at marriott.com using Explore credentials.** Consider offsetting with Chase Shop $250 via Chase Travel portal if the rate shows there.
+
+Cherry Creek shopping (~15 min Uber) is still easy for wife's daytime agenda.
 
 ---
 
@@ -74,3 +76,4 @@ Cherry Creek base = better for wife's shopping days. Downtown = easier for confe
 
 ## Status
 - 2026-10-02: Trip created. Rahul confirmed conference Oct 31–Nov 5 with wife + Kali joining.
+- 2026-10-02: Conference venue = Sheraton Denver Downtown (Marriott Bonvoy). Hotel decision = stay at Sheraton on Explore rate.
