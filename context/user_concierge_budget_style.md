@@ -28,6 +28,10 @@ originSessionId: 99e8ed39-ede0-4ca9-a83b-0410bcca0d02
 - BUT: pre-book anything ticketed/major (museums with timed entry, popular tours, hot restaurants).
 - Implication: Itineraries should be loose frames — one anchored activity + open exploration time. Always flag what needs advance booking.
 
+# Active Credits (expire end of 2026)
+- **Southwest $500 (Chase):** Use for domestic flights before Dec 31, 2026. Best target: wife + Kali RDU→DEN for Denver trip (Oct 31–Nov 5). Southwest flies RDU–DEN direct or 1-stop; wife + Kali = 2 seats. Kali is ~2yr 10mo in November — past the under-2 lap-child threshold, needs own seat.
+- **Chase Shop $250:** Use before Dec 31, 2026. Can apply to Chase Travel portal (hotels, flights) or eligible merchants. Best target: Quebec City hotel or Denver hotel.
+
 # Reference Points (last year's trips)
 - **Belgium** — couple trip, business class out, mid-range hotels
 - **Atlantis Bahamas** — 3 nights, daughter's birthday

@@ -7,7 +7,8 @@
 ---
 
 ## Open items (book now — 4 weeks out)
-- [ ] **Hotel** — Marriott/Bonvoy Explore rate. See options below. Book this week.
+- [ ] **Wife + Kali flights** — Use **Southwest $500 Chase credit** for RDU→DEN. Kali is ~2yr 10mo = needs her own seat (past the under-2 lap-child threshold). $500 likely covers both roundtrips; book at southwest.com with the Chase credit.
+- [ ] **Hotel** — Marriott/Bonvoy Explore rate. See options below. Book this week. Consider using **Chase Shop $250** via Chase Travel portal to offset.
 - [ ] **Anchor dinner** — Tavernetta (Italian, Union Station). Make reservation now.
 - [ ] **Death & Co Denver** — no reservations, walk-in only. Just go.
 - [ ] Confirm: are wife + Kali flying with Rahul, or separate?
